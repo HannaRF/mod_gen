@@ -1,0 +1,6 @@
+checkpoints/*
+data/*
+# Ignore environment files
+.env
+.csh
+mod-gen/*
