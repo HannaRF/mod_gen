@@ -4,3 +4,4 @@ data/*
 .env
 .csh
 mod-gen/*
+checkpoints/*
